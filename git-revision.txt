@@ -1,3 +1,4 @@
 hello world
 welcome to the world of git bash
 trying to change this text file in local and pushing changes in the remote github repo.
+today trying to use my ec2 instance/cloudserver as my local pc and clonned the code from github repo to cloud server.
