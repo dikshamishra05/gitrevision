@@ -5,3 +5,4 @@ today trying to use my ec2 instance/cloudserver as my local pc and clonned the c
 created a new branch feature1
 now learning git stash command this is used to save the changes in the code without commiting
 i am trying to execute pull and fetch command
+trying today new pull
